@@ -4,7 +4,7 @@ This is a MVP for a gift organizer mobile and web app
 ## 🌟 Features
 
 * User authentication (login, logout)
-* Dashboard showing clients, training plans, progress
+* Dashboard showing profile, groups and wishlist
 * Create, view, edit, delete users, groups and wishlists
 * Responsive UI for desktop and mobile
 * API integration using REST
